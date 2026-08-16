@@ -2,8 +2,6 @@
 
 A real-time remote photoplethysmography (rPPG) monitoring application that estimates heart rate from a webcam feed using advanced signal processing.
 
-![rPPG Demo](scanningresults.png)
-
 ## 🚀 Features
 
 - **Chrominance-based (CHROM) Processing**: Uses the robust CHROM algorithm (de Haan & Jeanne, 2013) to minimize motion artifacts and lighting variations.
