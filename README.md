@@ -2,7 +2,7 @@
 
 A real-time remote photoplethysmography (rPPG) monitoring application that estimates heart rate from a webcam feed using advanced signal processing.
 
-![rPPG Demo Placeholder](https://via.placeholder.com/800x450.png?text=rPPG+Monitor+Interface+Showing+Waveforms+and+BPM)
+![rPPG Demo](scanningresults.png)
 
 ## 🚀 Features
 
